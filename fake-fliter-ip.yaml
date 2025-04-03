@@ -1,0 +1,4 @@
+dns:
+  fake-ip-filter: #!replace
+    - 'ehome.com'
+    - '*.ehome.com'
